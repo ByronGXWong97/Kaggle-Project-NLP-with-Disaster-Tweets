@@ -3,11 +3,10 @@
 This project was my first entry in a Kaggle competition. Disaster relief organisations and news agencies programmatically monitor Twitter to receive real-time information about emergencies and disasters. This notebook uses a voting classifier that trains on an ensemble of models (Multinomial Naive Bayes, Logistic Regression, Random Forest) to predict whether a given tweet is about a disaster. 
 
 # Acknowledgements
-https://www.youtube.com/watch?v=I3FBJdiExcg - This project was modelled after Ken Jee's Beginner Walk-Through for the Titanic Kaggle Competition
-
-https://www.kaggle.com/gunesevitan/nlp-with-disaster-tweets-eda-cleaning-and-bert
-https://www.kaggle.com/saga21/disaster-tweets-comp-introduction-to-nlp
-https://www.kaggle.com/yurimuniz/classifying-tweets-step-by-step
+1) https://www.youtube.com/watch?v=I3FBJdiExcg - This project was modelled after Ken Jee's Beginner Walk-Through for the Titanic Kaggle Competition
+2) https://www.kaggle.com/gunesevitan/nlp-with-disaster-tweets-eda-cleaning-and-bert
+3) https://www.kaggle.com/saga21/disaster-tweets-comp-introduction-to-nlp
+4) https://www.kaggle.com/yurimuniz/classifying-tweets-step-by-step
 
 # Methods
 1) Exploratory data analysis of tweets
